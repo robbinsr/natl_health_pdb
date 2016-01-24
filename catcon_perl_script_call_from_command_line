@@ -1,0 +1,1 @@
+F:\Oracle\database\product\12.1.0\dbhome_1\perl\bin\perl F:\Oracle\database\product\12.1.0\dbhome_1\rdbms\admin\catcon.pl -u SYS -d F:\Oracle\database\product\12.1.0\dbhome_1\rdbms\admin -b catblock_output catblock.sql

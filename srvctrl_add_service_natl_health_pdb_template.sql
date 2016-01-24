@@ -1,0 +1,1 @@
+srvctl add service -db primary -service <service_name> -pdb natl_health_pdb

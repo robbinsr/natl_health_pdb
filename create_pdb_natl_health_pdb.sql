@@ -1,0 +1,1 @@
+CREATE PLUGGABLE DATABASE natl_health_pdb ADMIN USER natl_health IDENTIFIED BY password;
